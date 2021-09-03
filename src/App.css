@@ -1,0 +1,39 @@
+.primary{
+  background-color:khaki;
+  border-radius: 999px;
+  padding : 6px 24px;
+  outline: none;
+  border  :none;
+}
+.primary:hover{
+  cursor: pointer;
+}
+
+.sec{
+  background-color:rgb(138, 87, 255);
+  border-radius: 999px;
+  padding : 6px 24px;
+  outline: none;
+  border  :none;
+}
+.sec:hover{
+  cursor: pointer;
+}
+
+dl{
+  text-align: left;
+}
+dl dt{
+  float:left;
+}
+dd{
+  padding-left:32px;
+  padding-bottom: 8px;
+  overflow-wrap:break-word ;
+}
+body{
+  background-color: lightskyblue;
+  margin:0;
+  min-height: 100vh;
+}
+
